@@ -8,9 +8,9 @@
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/mi-proyecto.git
+   git clone https://github.com/MartinMasde/Adoptme-Masdeayala.git
 
-## Ejemplo de petición en Postman
+## Ejemplo de petición en Postman para generar data con mocks
 
 ```json
 {
